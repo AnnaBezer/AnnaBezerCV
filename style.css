@@ -1,0 +1,46 @@
+body  {
+    margin: 0;
+    background-color:azure;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+.example {
+    border: 2px solid red;
+    margin: 20px;
+    padding: 5px;
+}
+
+.theory, .resume {
+    min-height: 100vh;
+}
+
+.resume {
+    border-top: 5px solid #005889;
+    padding: 20px;
+}
+
+.blue {
+    color: #005889;
+}
+
+.inline {
+    display: inline;
+}
+
+.place {
+    margin-left: 35px;
+}
+
+.flex {
+    display: flex;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
